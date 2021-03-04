@@ -169,7 +169,7 @@ namespace zPing
                 "\n ▄█▀▀▀• ██▀·▐█·▐█▐▐▌▄█ ▀█▄" +
                 "\n █▌▪▄█▀▐█▪·•▐█▌██▐█▌▐█▄▪▐█" +
                 "\n ·▀▀▀ •.▀   ▀▀▀▀▀ █▪·▀▀▀▀ " +
-                $"\n\n Started zPing v{Assembly.GetExecutingAssembly().GetVersion()}, source available at KhrysusDev/zPing on GitHub\n" +
+                $"\n\n Started zPing v2.1.0.1, source available at KhrysusDev/zPing on GitHub\n" +
                 " This program is free of charge, if you paid you have been scammed, and should demand your money back.\n" +
                 " Licensed under Common Development and Distribution License (CDDL)\n\n");
 
