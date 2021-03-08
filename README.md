@@ -2,10 +2,10 @@
 TCP probe tool with added ICMP functionality
 
 ## Requirements
-For compiling:
+### For compiling:
 - Visual Studio 2019 Community or higher
 - .NET 5.0.3 SDK
-For running:
+### For running:
 - .NET 5.0.3 Desktop Runtime
 
 ## Compiling
