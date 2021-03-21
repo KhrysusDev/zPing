@@ -20,7 +20,7 @@ Open the .sln file with Visual Studio and rebuild.
 This is a command-line tool, that means you have to run it from a command prompt. I would recommend copying it to C:\Windows\System32 so it's added to PATH
 automatically or you can manually add it to PATH if you want.
 
-Get the latest version from the Releases.
+Get the latest version from Releases.
 ```
 zping -i 1.1.1.1
 ```
